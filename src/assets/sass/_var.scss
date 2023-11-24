@@ -1,0 +1,27 @@
+// Colors
+
+$primary : blue;
+$secondary : red;
+$tertiary : yellow;
+
+// Typo
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+$ff: "Roboto", sans-serif;
+$fs: 2rem;
+$ff-title: 'Oswald', sans-serif;
+$fs-title: 6rem;
+$ff-sub: 'Press Start 2P', cursive;
+$fs-sub: 4.5rem;
+
+// Screen sizes
+
+$xs: 360px;
+$sm: 540px;
+$md: 768px;
+$lg: 992px;
+$xl: 1238px;
+$xxl: 1400px;

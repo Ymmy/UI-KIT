@@ -1,0 +1,19 @@
+.kit{
+    .square{
+        height: 50px;
+        width: 50px;
+        margin: 20px;
+        &.primary{
+            background-color: $primary;
+        }
+        &.secondary{
+            background-color: $secondary;
+        }
+        &.tertiary{
+            background-color: $tertiary;
+        }
+    }
+    .icon{
+        background-color: grey;
+    }
+}
